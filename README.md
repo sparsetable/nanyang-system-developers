@@ -1,2 +1,3 @@
-# nanyang-system-developers
-Admin repository for Nanyang System Developers
+# Nanyang System Developers
+
+Welcome to the admin repository for Nanyang System Developers.
