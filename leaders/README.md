@@ -15,48 +15,45 @@
 
 #### Programming
 
-- [Object-oriented programming](training/object-oriented-programming.md) (INCOMPLETE)
+- [Modularisation principles](training/modularisation-principles.md)
 
 #### Security
 
-- [Test-driven development (TDD)](training/test-driven-development.md) (INCOMPLETE)
+- [Data privacy](training/data-privacy-and-security.md)
 
 #### Web
 
-- [Web programming](training/web-programming.md) (INCOMPLETE)
+- [web authentication and authorisation](training/web-authentication-authorisation.md)
 
 #### Design
 
-- [Application and interface design](training/application-and-interface-design.md) (INCOMPLETE)
+- [User Interface and Experience (UI/UX)](training/ui-ux.md)
 
 #### AI
 
-- [Code Assistants](training/code-assistants.md) (INCOMPLETE)
+- [Code Agents](training/code-agents.md)
 
 #### Lifecycle
 
-- [Software development lifecycle](training/software-development-lifecycle.md) (INCOMPLETE)
+- [Dependency management](training/dependency-management.md)
 
 #### Communication
 
-- [Interfaces and abstraction](training/interfaces-and-abstraction.md) (INCOMPLETE)
+- [Technical writing and documentation](training/technical-writing-documentation.md)
 
 #### Collaboration
 
-- [Project management](training/project-management.md) (INCOMPLETE)
+- [Project planning](training/project-planning.md)
 
-#### Versioning 
+#### Versioning
 
-- [Git workflows](training/git-workflows.md) (INCOMPLETE)
+- [DevOps](training/devops.md)
 
 #### Process
 
-- [Automation](training/automation.md) (INCOMPLETE)
+- [Metrics and analytics](training/metrics-analytics.md)
 
 ## Advanced modules (future work) 
 
-- Cryptography
-- AI & LLMs
-- OAuth
-- Javascript
-- multithreading/async
+1. Cryptography
+2. AI & LLMs
