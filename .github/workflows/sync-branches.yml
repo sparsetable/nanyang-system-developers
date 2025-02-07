@@ -1,0 +1,35 @@
+name: Sync Branches with Main
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Main Branch
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Setup Git User
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+
+      - name: Sync with Draft Branch
+        run: |
+          git checkout draft
+          git pull origin draft || echo "No changes to pull for draft"
+          git reset --hard origin/main
+          git merge --squash origin/main || echo "No changes to merge for draft"
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Squash merge changes from main into draft"
+            git push origin draft || echo "Failed to push draft branch"
+          fi
+          git reset --hard main
+          git push origin draft --force || echo "Failed to force push draft branch"
