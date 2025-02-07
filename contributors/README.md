@@ -15,12 +15,12 @@
 
 - [Intro to Python](https://github.com/nyjc-computing/intro-to-python) (INCOMPLETE)
   - complete all lessons (Advanced + Algorithms)
-- [csv & json](training/csv-and-json.md) (INCOMPLETE)
+- [csv & json](training/csv-and-json.md)
 - [html & css](training/html-and-css.md) (INCOMPLETE)
 
 #### Security
 
-- [Data validation](training/data-validation.md) (INCOMPLETE)
+- [Data validation and verification](training/data-validation-and-verification.md)
 - [Unit testing](training/unit-testing.md) (INCOMPLETE)
 
 #### Web
