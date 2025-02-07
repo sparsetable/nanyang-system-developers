@@ -19,7 +19,7 @@
 
 #### Security
 
-- [Data privacy](training/data-privacy.md)
+- [Data privacy](training/data-privacy-and-security.md)
 
 #### Web
 
