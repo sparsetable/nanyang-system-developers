@@ -54,8 +54,3 @@
 #### Process
 
 - [Metrics and analytics](training/metrics-analytics.md) (INCOMPLETE)
-
-## Advanced modules (future work) 
-
-1. Cryptography
-2. AI & LLMs
