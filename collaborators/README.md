@@ -36,11 +36,11 @@
 
 #### Lifecycle
 
-- [Software development lifecycle](training/software-development-lifecycle.md) (INCOMPLETE)
+- [Software development lifecycle](training/software-development-lifecycle.md)
 
 #### Communication
 
-- [Interfaces and abstraction](training/interfaces-and-abstraction.md) (INCOMPLETE)
+- [Interfaces and abstraction](training/interfaces-and-abstraction.md)
 - [Advanced annotations and type-checking](training/advanced-annotations-type-checking.md) (INCOMPLETE)
 
 #### Collaboration
