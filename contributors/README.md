@@ -13,15 +13,15 @@
 
 #### Programming
 
-- [Intro to Python](https://github.com/nyjc-computing/intro-to-python) (INCOMPLETE)
+- [Intro to Python](https://github.com/nyjc-computing/intro-to-python)
   - complete all lessons (Advanced + Algorithms)
 - [csv & json](training/csv-and-json.md)
-- [html & css](training/html-and-css.md) (INCOMPLETE)
+- [html & css](training/html-and-css.md)
 
 #### Security
 
 - [Data validation and verification](training/data-validation-and-verification.md)
-- [Unit testing](training/unit-testing.md) (INCOMPLETE)
+- [Unit testing](training/unit-testing.md)
 
 #### Web
 
@@ -42,7 +42,7 @@
 
 #### Communication
 
-- [Docstrings and annotations](training/docstrings-and-annotations.md) (INCOMPLETE)
+- [Docstrings and annotations](training/docstrings-and-annotations.md)
 
 #### Collaboration
 
