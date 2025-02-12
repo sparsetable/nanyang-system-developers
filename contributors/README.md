@@ -33,6 +33,8 @@
 
 #### AI
 
+**Note:** contributors are expected to write their own code, without the use of chatbots, although code completion assistants are allowed. This is part of the training to build up sufficient experience for collaborator-level contributions.
+
 - [Chatbots](training/chatbots.md)
 - [Code completion assistants](training/code-completion-assistants.md)
 
