@@ -11,3 +11,14 @@ NYSD members participate at one of three tiers:
 - [Collaborators](./collaborators)
 - [Leaders](./leaders)
 
+## Elective modules
+
+1. Cryptography
+2. AI & LLMs
+3. Design patterns
+4. Functional programming
+5. Concurrent programming 
+6. Algorithms, data structures, and time complexity
+7. Javascript
+8. Web programming: Document Object Model 
+9. System architecture: cloud hosting and serverless architecture
