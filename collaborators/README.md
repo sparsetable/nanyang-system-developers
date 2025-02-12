@@ -34,6 +34,8 @@
 
 #### AI
 
+**Note:** collaborators are expected to write their own code, with the use of chatbots and code completion assistants, but not code assistants or agents. This is part of the training to build up sufficient experience for leader-level contributions.
+
 - [Code Assistants](training/code-assistants.md)
 
 #### Lifecycle
