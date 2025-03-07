@@ -6,7 +6,7 @@ NYJC students can [sign up for Nanyang System Developers](https://forms.gle/eYBe
 
 ## Training programme
 
-Go through the training materials at your own pace. Please ask any questions in the `#nanyang-system-developers` channel on Discord.
+Go through the training materials at your own pace. Please ask any questions in the [#nanyang-system-developers](https://discord.com/channels/690399114986389535/754543432537604218) channel on Discord.
 
 ### Materials
 
@@ -19,9 +19,9 @@ Go through the training materials at your own pace. Please ask any questions in 
 
 When you accept your first assignment, you will be asked to select your name from a roster, to tag your account to that name.
 
-If you accidentally select a wrong name, please ask for help in `#nanyang-system-developers`.
+If you accidentally select a wrong name, please ask for help in [#nanyang-system-developers](https://discord.com/channels/690399114986389535/754543432537604218).
 
-If you don't see your name in the roster, please hang on - after you submit the signup form, it takes 1-2 days for us to receive your submission and register you in Github Classroom. If your name is still not there after this period, please alert us in `#nanyang-system-developers`.
+If you don't see your name in the roster, please hang on - after you submit the signup form, it takes 1-2 days for us to receive your submission and register you in Github Classroom. If your name is still not there after this period, please alert us in [#nanyang-system-developers](https://discord.com/channels/690399114986389535/754543432537604218).
 
 1. GitHub Classroom assignments
    - [ ] complete [GitHub starter assignment](https://classroom.github.com/a/pLy2iliL)
