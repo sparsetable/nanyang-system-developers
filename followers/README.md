@@ -6,19 +6,27 @@ NYJC students can [sign up for Nanyang System Developers](https://forms.gle/eYBe
 
 ## Training programme
 
+Go through the training materials at your own pace. Please ask any questions in the `#nanyang-system-developers` channel on Discord.
+
 ### Materials
 
 1. [Intro to Python](https://github.com/nyjc-computing/intro-to-python)
-   - complete the Basic lessons (optional)
+   - complete the Basic lessons
 
 2. [Intro to git version control](training/intro-to-git-version-control)
 
 ### Assessment
 
+When you accept your first assignment, you will be asked to select your name from a roster, to tag your account to that name.
+
+If you accidentally select a wrong name, please ask for help in `#nanyang-system-developers`.
+
+If you don't see your name in the roster, please hang on - after you submit the signup form, it takes 1-2 days for us to receive your submission and register you in Github Classroom. If your name is still not there after this period, please alert us in `#nanyang-system-developers`.
+
 1. GitHub Classroom assignments
-   - [ ] complete GitHub starter assignment
-   - [ ] complete Assignment 1
-   - [ ] complete Assignment 2
+   - [ ] complete [GitHub starter assignment](https://classroom.github.com/a/pLy2iliL)
+   - [ ] complete [Assignment 1](https://classroom.github.com/a/zrMVUIXE)
+   - [ ] complete [Assignment 2](https://classroom.github.com/a/HquT-jg2)
    - [ ] run a unit test manually using the command line
    - **success condition:** closing of the feedback PR by your assessors, and witnessing of unit test running by a NYSD member, constitutes assignment completion
 
