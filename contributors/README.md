@@ -7,6 +7,8 @@
 - Identify bugs and creating issues
 - Update documentation for tasks
 
+Minimum expected commitment: ~2 hrs/wk
+
 ## Training programme
 
 ### Materials
