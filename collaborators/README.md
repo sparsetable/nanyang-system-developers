@@ -10,6 +10,8 @@
 - Drive sprints for a feature/task team
 - Coaching contributors
 
+Minimum expected commitment: ~4 hrs/wk
+
 ## Training programme
 
 ### Materials
