@@ -9,6 +9,8 @@
 - Propose new projects, writing specifications or briefs for them as necessary
 - Coaching collaborators
 
+Minimum expected commitment: ~6 hrs/wk
+
 ## Training programme
 
 ### Materials
