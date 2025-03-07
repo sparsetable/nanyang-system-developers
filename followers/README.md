@@ -32,7 +32,7 @@ If you don't see your name in the roster, please hang on - after you submit the 
 
 2. Make a GitHub [pull request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to [nanyang-system-developers](https://github.com/nyjc-computing/nanyang-system-developers) (this repository)
    - fork the repository
-   - edit the members list to include your name as a Contributor
+   - edit MEMBERS.md to include your name as a Contributor
    - Put "add <your name> as a github contributor" as the commit message
    - Make a pull request (PR) to the `intake` branch
    - **success condition:** acceptance of the PR constitutes completion of the task and acceptance as a NYSD Contributor.
