@@ -18,4 +18,7 @@ Refactoring is the process of changing implementation code while keeping the out
 
 Refactoring should be done in small steps, with frequent testing to ensure that the behavior of the code remains unchanged.
 
-Further reading: [https://refactoring.guru/refactoring](https://refactoring.guru/refactoring)
+## Further reading
+
+- [Refactoring Guru](https://refactoring.guru/refactoring)
+- [Push Ifs Up and Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
