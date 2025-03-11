@@ -13,7 +13,7 @@ NYSD members participate at one of three tiers:
 
 ## Elective modules
 
-- [Technical writing and documentation](electives/technical-writing-documentation.md) (INCOMPLETE)
+- [Technical writing and documentation](electives/technical-writing-documentation.md)
 - [Metrics and analytics](electives/metrics-analytics.md) (INCOMPLETE)
 - [User Interface and Experience (UI/UX)](electives/ui-ux.md) (INCOMPLETE)
 - [Packaging](electives/packaging.md)
