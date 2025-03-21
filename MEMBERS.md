@@ -1,6 +1,6 @@
 # NYSD members
 
-Membership list as of 15 Mar, 2025.
+Membership list as of 20 Mar, 2025.
 
 ## Leaders
 
