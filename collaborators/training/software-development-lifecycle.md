@@ -17,7 +17,7 @@ Most new developers think writing code and getting it to run is all there is to 
 6. software will stagnate once released, unaware of the evolving needs and technologies that could make their product obsolete.
    - With experience, they learn to value **maintenance and evolution**, recognizing the need to keep the software relevant through regular updates and improvements, maintaining robust documentation to ease transitions and ensure continuity.
 
-![The image depicts the Software Development Cycle represented in a circular flowchart with six stages: Planning (Red), Analysis (Blue), Design (Dark Blue), Implementation (Green), Testing & Integration (Yellow), Maintenance (Orange). The cycle is organized in a circular layout to emphasize the iterative nature of software development.](/images/sdlc.png)
+![The image depicts the Software Development Cycle represented in a circular flowchart with six stages: Planning (Red), Analysis (Blue), Design (Dark Blue), Implementation (Green), Testing & Integration (Yellow), Maintenance (Orange). The cycle is organized in a circular layout to emphasize the iterative nature of software development.](/nanyang-system-developers/images/sdlc.png)
 
 The above steps are typical of the **software development lifecycle (SDLC)**, a process used by the software industry to design, develop, and test high-quality software. It includes phases such as planning, analysis, design, implementation, testing, deployment, and maintenance.
 
