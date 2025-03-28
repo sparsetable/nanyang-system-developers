@@ -67,9 +67,9 @@ NYSD uses GitHub as the central place to manage project-related information.
 
 ### Assessment
 
-- [ ] complete Assignment 3 [Programming]
-- [ ] complete Assignment 4 [Programming]
-- [ ] complete Assignment 5 [Programming]
+- [ ] complete [Assignment 3](https://classroom.github.com/a/H4vM5Fmz) [Programming]
+- [ ] complete [Assignment 4](https://classroom.github.com/a/sI8EykXb) [Programming]
+- [ ] complete [Assignment 5](https://classroom.github.com/a/BiyGzw0f) [Programming]
 
 **success condition:** closing of the feedback PR by your assessors constitutes assignment completion
 
